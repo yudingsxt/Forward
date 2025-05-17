@@ -119,39 +119,107 @@ WidgetMetadata = {
             { 
               title: "楪可怜", 
               value: "https://jable.tv/models/86b2f23f95cc485af79fe847c5b9de8d/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            },
-            { 
-              title: "小野夕子", 
-              value: "https://jable.tv/models/2958338aa4f78c0afb071e2b8a6b5f1b/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            },
+            }，
             { 
               title: "大槻ひびき", 
               value: "https://jable.tv/models/hibiki-otsuki/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            },
-            { 
-              title: "藤森里穗", 
-              value: "https://jable.tv/models/riho-fujimori/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            },
-            { 
-              title: "JULIA", 
-              value: "https://jable.tv/models/julia/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
-            },
-            { 
-              title: "明里つむぎ", 
-              value: "https://jable.tv/models/tsumugi-akari/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
             },
             { 
               title: "桃乃木かな", 
               value: "https://jable.tv/models/momonogi-kana/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
             },
             { 
-              title: "水戸かな", 
-              value: "https://jable.tv/models/kana-mito/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+              title: "凪ひかる", 
+              value: "https://jable.tv/models/91fca8d824e07075d09de0282f6e9076/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
             },
             { 
-              title: "篠田ゆう", 
-              value: "https://jable.tv/s1/models/shinoda-yuu/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+              title: "汐世", 
+              value: "https://jable.tv/models/e99f1ca15966b87be472e606fc02f53c/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
             },
+            { 
+              title: "百田光希", 
+              value: "https://jable.tv/models/c9086c992e778ca85478333cfc649ed0/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "深田えいみ", 
+              value: "https://jable.tv/s1/models/hukada-eimi/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "波多野結衣", 
+              value: "https://jable.tv/s1/models/hatano-yui/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "田中ねね", 
+              value: "https://jable.tv/models/nene-tanaka/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "中山ふみか", 
+              value: "https://jable.tv/models/d0561e8c3f65a5a1ca6bcd3e317fc185/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "神楽ももか“, 
+              value: "https://jable.tv/models/7bf6de1f3c59111c2c5cae61f5c84a7e/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "神木麗“, 
+              value: "https://jable.tv/models/ef9b1ab9a21b58d6ee4d7d97ab883288/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "恋渕ももな“, 
+              value: "https://jable.tv/models/2a8b2bb6f1b622ae2c67edcbde5d0c7a/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "小梅えな“, 
+              value: "https://jable.tv/models/ena-koume/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "夢乃あいか“, 
+              value: "https://jable.tv/models/yumeno-aika/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "鷲尾めい“, 
+              value: "https://jable.tv/models/99df40f2a110f8540246b0b975b1ccc7/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "安齋らら“, 
+              value: "https://jable.tv/models/52a33aabdfd0440202e57950dafe079f/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "羽月乃蒼“, 
+              value: "https://jable.tv/models/49b54928c23fd7c915161cc49c3e3d5d/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "吉根ゆりあ", 
+              value: "https://jable.tv/models/julia-yoshine/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "みなと羽琉", 
+              value: "https://jable.tv/models/d6567803c9156b0da63133a77ed0a526/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "三木環奈", 
+              value: "https://jable.tv/models/355eafc84c4892adf040c0864a386a0a/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "山手梨愛", 
+              value: "https://jable.tv/models/382635fc5873b217ff01bdd14f5058a7/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "奥田咲", 
+              value: "https://jable.tv/models/saki-okuda/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            }, 
+            { 
+              title: "八蜜凛", 
+              value: "https://jable.tv/models/f2cb5678bddcc809f77827eb6f38f025/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },  
+            { 
+              title: "河合あすな", 
+              value: "https://jable.tv/models/asuna-kawai/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },   
+            { 
+              title: "小宵こなん", 
+              value: "https://jable.tv/models/20d0c4a34eda32e442cc3ff532f568fd/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            }, 
           ],
           value: "",
         },
@@ -249,6 +317,10 @@ WidgetMetadata = {
             { 
               title: "Cosplay", 
               value: "https://jable.tv/tags/Cosplay/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
+            },
+            { 
+              title: "處女作/引退作", 
+              value: "https://jable.tv/tags/debut-retires/?mode=async&function=get_block&block_id=list_videos_common_videos_list"
             },
           ],
           value: "",
