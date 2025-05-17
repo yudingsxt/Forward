@@ -1,14 +1,14 @@
 {
   "title": "𝓝𝓘𝓖𝓗𝓣 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
-  "description": "𝒜 𝒸𝑜𝓁𝓁𝑒𝒸𝓉𝒾𝑜𝓃 𝑜𝒻 𝓌𝒾𝒹𝑔𝑒𝓉𝓈 𝒸𝓇𝑒𝒶𝓉𝑒𝒹 𝒷𝓎 𝓝𝓘𝓖𝓗𝓣",
+  "description": "Jable",
   "icon": "https://raw.githubusercontent.com/yudingsxt/Forward/refs/heads/main/icon.png",
   "widgets": [
     {
-      "id": "jablenight",
-      "title": "自用Jable",
-      "description": "获取Jable热门影片榜单",
+      "id": "night.jable",
+      "title": "Jable详细分类",
+      "description": "获取Jable分类榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": "night",
       "url": "https://raw.githubusercontent.com/yudingsxt/Forward/refs/heads/main/jable.js"
     }
