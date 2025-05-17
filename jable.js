@@ -3,7 +3,7 @@ WidgetMetadata = {
   title: "Jable",
   description: "获取Jable各种分类榜单",
   author: "nibiru",
-  site: "https://github.com/quantumultxx/FW-Widgets",
+  site: "https://github.com/yudingsxt/Forward",
   version: "1.0.2",
   requiredVersion: "0.0.1",
   modules: [
