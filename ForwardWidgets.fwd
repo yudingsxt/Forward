@@ -4,8 +4,8 @@
   "icon": "https://raw.githubusercontent.com/quantumultxx/FW-Widgets/refs/heads/main/icon.png",
   "widgets": [
     {
-      "id": "jable",
-      "title": "Jable",
+      "id": "jablenight",
+      "title": "自用Jable",
       "description": "获取Jable热门影片榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.2",
