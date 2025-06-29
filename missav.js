@@ -64,7 +64,7 @@ async function getTodayHot(params = {}) {
 
     return elements.map((index, element) => {
         const $element = $(element);
-        const id = $element.find("a").attr("href");
+        const id = `https://missav.ai${$element.find("a").attr("href")}`;
         const title = $element.find("a").attr("title");
         const coverUrl = $element.find("img").attr("src");
         return {
@@ -85,7 +85,7 @@ async function getLatest(params = {}) {
 
     return elements.map((index, element) => {
         const $element = $(element);
-        const id = $element.find("a").attr("href");
+        const id = `https://missav.ai${$element.find("a").attr("href")}`;
         const title = $element.find("a").attr("title");
         const coverUrl = $element.find("img").attr("src");
         return {
@@ -110,7 +110,7 @@ async function search(params = {}) {
 
     return elements.map((index, element) => {
         const $element = $(element);
-        const id = $element.find("a").attr("href");
+        const id = `https://missav.ai${$element.find("a").attr("href")}`;
         const title = $element.find("a").attr("title");
         const coverUrl = $element.find("img").attr("src");
         return {
