@@ -1,0 +1,16 @@
+{
+  "title": "𝓝𝓘𝓖𝓗𝓣 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
+  "description": "MissAV",
+  "icon": "https://raw.githubusercontent.com/yudingsxt/Forward/refs/heads/main/icon.png",
+  "widgets": [
+    {
+      "id": "night.jable",
+      "title": "MissAV",
+      "description": "获取MissAV内容",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "night",
+      "url": "https://raw.githubusercontent.com/yudingsxt/Forward/refs/heads/main/missav.js"
+    },
+  ]
+}
